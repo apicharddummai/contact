@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ติดต่อเรา - EMS UBON</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        body { font-family: 'Prompt', sans-serif; background-color: #f4f7f6; }
+        .niem-blue { background-color: #003366; }
+        .niem-red { background-color: #cc0000; }
+    </style>
+</head>
+<body>
+
+    <nav class="bg-white shadow-md sticky top-0 z-50">
+        <div class="container mx-auto px-4 py-3 flex justify-between items-center">
+            <div class="flex items-center gap-3">
+                <img src="https://i.postimg.cc/tgMz7SVd/sphch.png" alt="Logo" class="h-12 md:h-16">
+                <h1 class="text-blue-900 font-bold leading-tight text-lg md:text-xl uppercase">EMS Ubonratchathani</h1>
+            </div>
+            <a href="home.html" class="text-blue-900 hover:underline font-semibold">
+                <i class="fa-solid fa-arrow-left mr-2"></i> กลับหน้าแรก
+            </a>
+        </div>
+    </nav>
+
+    <div class="niem-blue text-white py-16 text-center">
+        <h2 class="text-4xl font-bold mb-2">ติดต่อเรา</h2>
+        <p class="opacity-80 font-light">ช่องทางสื่อสารและพิกัดศูนย์รับแจ้งเหตุและสั่งการจังหวัดอุบลราชธานี</p>
+    </div>
+
+    <div class="container mx-auto px-4 -mt-10">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            
+            <div class="lg:col-span-1 space-y-6">
+                <div class="bg-white p-8 rounded-3xl shadow-lg border-t-4 border-red-600">
+                    <h3 class="text-xl font-bold text-blue-900 mb-6">ข้อมูลติดต่อ</h3>
+                    
+                    <div class="space-y-6">
+                        <div class="flex gap-4">
+                            <div class="text-red-600 text-xl"><i class="fa-solid fa-location-dot"></i></div>
+                            <p class="text-gray-600 text-sm">ชั้น 2 อาคาร OTOP (องค์การบริหารส่วนจังหวัดอุบลราชธานี) ถ.แจ้งสนิท ต.ในเมือง อ.เมือง จ.อุบลราชธานี 34000</p>
+                        </div>
+                        <div class="flex gap-4">
+                            <div class="text-blue-700 text-xl"><i class="fa-solid fa-phone"></i></div>
+                            <div>
+                                <p class="text-gray-900 font-bold">045-352-450</p>
+                                <p class="text-gray-500 text-xs">เบอร์ธุรการ/สำนักงาน</p>
+                            </div>
+                        </div>
+                        <div class="flex gap-4">
+                            <div class="text-blue-700 text-xl"><i class="fa-solid fa-envelope"></i></div>
+                            <p class="text-gray-900 font-bold">serverems1669@gmail.com</p>
+                        </div>
+                        <div class="flex gap-4">
+    <div class="text-green-600 text-xl"><i class="fa-brands fa-line"></i></div>
+    <a href="https://line.me/ti/g2/2w6Vs3z4Xo02_vfi3mBitxQ47kIA2nZ7d1alsw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default" 
+       target="_blank" 
+       class="text-gray-900 font-bold underline cursor-pointer hover:text-green-600 transition">
+        @EMSUbonOfficial (Line OpenChat)
+    </a>
+</div>
+                    </div>
+                </div>
+
+                <div class="bg-blue-900 text-white p-8 rounded-3xl shadow-lg">
+                    <h3 class="text-xl font-bold mb-4"><i class="fa-solid fa-clock mr-2"></i> เวลาทำการ </h3>
+                    <p class="text-sm opacity-80 mb-2">เปิดให้บริการรับแจ้งเหตุตลอด 24 ชั่วโมง</p>
+                    <p class="text-sm opacity-80 font-bold italic text-yellow-400">*สำหรับงานบริหาร: จันทร์ - ศุกร์ (08.00 - 16.00 น.)</p>
+                </div>
+            </div>
+
+            <div class="lg:col-span-2">
+                <div class="bg-white p-4 rounded-3xl shadow-lg h-full min-h-[450px]">
+                    <iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3849.231998539074!2d104.84390847582531!3d15.244938984687556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x311687ac2f5cd0d7%3A0xc69d191eea7a1ebe!2z4Lio4Li54LiZ4Lii4LmM4Lij4Lix4Lia4LmB4LiI4Lie4LmA4Lir4LiV4Li44LmB4Lil4Lia4Lix4LiZ4LiB4Liy4Lij4LiI4Lix4LiH4Lir4Lin4Lix4LiU4Lit4Li44Lia4Lil4Lij4Liy4LiK4Lib4Liy4Lia4LiZ4Li1IEVNUzE2Njk!5e0!3m2!1sth!2sth!4v1710300000000!5m2!1sth!2sth" 
+    class="w-full h-full rounded-2xl border-0" 
+    allowfullscreen="" 
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="text-center py-10 text-gray-400 text-xs">
+        © 2026 EMS UBONRATCHATHANI. All Rights Reserved.
+    </footer>
+
+</body>
+</html>
